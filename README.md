@@ -1,1 +1,2 @@
 # AutomationPython
+New auto tests
